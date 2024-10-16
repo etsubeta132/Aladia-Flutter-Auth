@@ -1,0 +1,19 @@
+flutter_native_splash:
+  # Background color for the splash screen.
+  color: "#ffffff"
+  color_dark: "#000000"  # Background for dark mode.
+
+  # Optional: Splash image (recommended size: 512x512).
+  image: assets/images/aladia_splash_logo.png
+
+  # Optional: Android-specific configuration.
+  android: true
+  android_gravity: center
+
+  # Optional: iOS-specific configuration.
+  ios: true
+
+  # Optional: Full screen mode for Android.
+  fullscreen: true
+
+
